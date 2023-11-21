@@ -1,5 +1,5 @@
 ### Hi I'm sloth31 👋
-![GitHub followers](https://img.shields.io/github/followers/sloth31?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/sloth31?style=social)
+\  ![GitHub User's stars](https://img.shields.io/github/stars/sloth31?style=social)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true)
 

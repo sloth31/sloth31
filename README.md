@@ -2,7 +2,7 @@
 
 🏫 I'm a senior student from 🇨🇳.
 
-🌱 I’m currently learning fuzzing & [V8](https://github.com/v8/v8) |[CodeQL](https://github.com/github/codeql)|Static Analysis.
+🌱 I’m currently learning fuzzing & [V8](https://github.com/v8/v8) | [CodeQL](https://github.com/github/codeql) | Static Analysis.
 
 🤩 I'm interested in Web Security and Java Security.
 

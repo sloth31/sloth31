@@ -1,10 +1,10 @@
 ### Hi I'm sl0th 👋
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloth31&hide=html,css&theme=dracula)
 
 <!--
 **sloth31/sloth31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

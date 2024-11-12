@@ -10,6 +10,8 @@
 
 📃 My blog: https://sl0th.top/
 
+🎭 MBTI: INFJ
+
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
 
 

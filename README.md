@@ -1,6 +1,10 @@
-### Hi I'm sl0th 👋
+### Hi there, I'm sl0th <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-
+🏫 I'm a senior student from 🇨🇳.
+🌱 I’m currently learning fuzzing & [V8](https://github.com/v8/v8) |[CodeQL](https://github.com/github/codeql)|Static Analysis.
+🤩 I'm interested in Web Security and Java Security.
+📫 Contact me via z694081360@gmail.com
+📃 My blog: https://sl0th.top/
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
 
 

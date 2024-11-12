@@ -1,4 +1,4 @@
-### Hi there, I'm sl0th <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+### Hi there, I'm sl0th <img src="./img/Hi.gif" width="30px"> 
 
 🏫 I'm a senior student from 🇨🇳.
 
@@ -11,6 +11,8 @@
 📃 My blog: https://sl0th.top/
 
 🎭 MBTI: INFJ
+
+<img src="./img/INFJ.svg" > 
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
 

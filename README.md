@@ -10,9 +10,9 @@
 
 📃 My blog: https://sl0th.top/
 
-🎭 MBTI: INFJ
+🎭 MBTI: INTP
 
-<img src="./img/INFJ.svg" > 
+<img src="./img/INTP.svg" > 
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth31&show_icons=true&theme=dracula)
 
